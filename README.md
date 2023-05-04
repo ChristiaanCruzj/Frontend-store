@@ -1,3 +1,3 @@
-# Frontend-store project 
+# Frontend-store
 
-##this is a web of the shopping 
+## if you have something to sell, this is a good recomendation 
